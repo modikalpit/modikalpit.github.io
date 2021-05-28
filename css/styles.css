@@ -10865,6 +10865,7 @@ section {
 
 .app-badge {
   height: 3rem;
+  margin-top: 1rem;
 }
 
 #mainNav {
