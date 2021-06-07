@@ -6374,7 +6374,7 @@ textarea.form-control-lg {
 }
 
 .shadow-sm {
-  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important; /*0,0,0.075*/
 }
 
 .shadow-lg {
@@ -10970,7 +10970,8 @@ a.navbar-brand{
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800");
+  background-image: url("https://source.unsplash.com/H5PnIYI_1I0/1500x800");
+  /*background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800"); Photo by <a href="https://unsplash.com/@camille_couvez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Camille Couvez</a> on <a href="https://unsplash.com/s/photos/color-splash?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> 1500x800*/
   background-position: center;
   background-size: cover;
 }
